@@ -1,4 +1,4 @@
-# Piano-bot
+# Piano Bot
 The Piano Bot was inspired by young children who wish to experiment with musical composition. 
 
 Many children have difficulty distinguishing the positions of notes on a musical staff, but they can easily recognize colours. We designed a robot that would allow children to use colours to represent notes when composing. The robot uses a sensor to detect the colours, translates the colours to notes, and plays the song by hitting keys on a piano phone app.
