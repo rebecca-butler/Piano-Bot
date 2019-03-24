@@ -7,5 +7,5 @@ This project was created through the use of RobotC, Android Studio, 3D printers,
 
 Several tests were conducted to further analyze and improve the accuracy of the robot. These test cases involved the colour sensor, motors, and alignment of the robot. Prior to finalizing the design concept, experiments were completed in order to test the output values from the colour sensor, the accuracy and power of the motors, and the potential chances of off-centered driving. 
 
-##Acknowledgements
+## Acknowledgements
 This project was developed by Rebecca Butler, Christina Ru, Benjamin Li, and Angelito Elipse.
